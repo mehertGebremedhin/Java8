@@ -8,7 +8,7 @@ import java.util.List;
 /**
  * UnitOneExcres.java
  *
- * @author g106108 (Garrett Griffin)
+ * @author g106108
  * @since 8/1/18
  */
 public class UnitOneExcres {

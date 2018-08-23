@@ -4,7 +4,7 @@ import java.time.format.DateTimeFormatter;
 /**
  * JAVA8Certefication.java
  *
- * @author g106108 (Garrett Griffin)
+ * @author g106108
  * @since 8/6/18
  */
 public class JAVA8Certefication extends  MId{

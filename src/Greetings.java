@@ -1,7 +1,7 @@
 /**
  * Greetings.java
  *
- * @author g106108 (Garrett Griffin)
+ * @author g106108
  * @since 6/15/18
  */
 

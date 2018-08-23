@@ -6,7 +6,7 @@ import java.util.List;
 /**
  * java8Solution.java
  *
- * @author g106108 (Garrett Griffin)
+ * @author g106108
  * @since 8/2/18
  */
 public class java8Solution {

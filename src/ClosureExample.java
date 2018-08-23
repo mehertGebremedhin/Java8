@@ -4,7 +4,7 @@ import java.util.List;
 /**
  * ClosureExample.java
  *
- * @author g106108 (Garrett Griffin)
+ * @author g106108
  * @since 8/3/18
  */
 public class ClosureExample {
